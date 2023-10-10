@@ -30,7 +30,7 @@ public class FlajoletMartinThreads extends Thread {
 	            return i;
 	        }
 	    }
-	    return reversedString.length();
+	    return reversedString.length()-1;
 	}
 	
 	
